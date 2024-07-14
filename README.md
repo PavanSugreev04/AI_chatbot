@@ -37,6 +37,4 @@ Make sure you have Node.js installed. You can download it from [Node.js official
 
 5. Open `index.html` in your browser to start interacting with the chatbot.
 
-## Project Structure
-
 
